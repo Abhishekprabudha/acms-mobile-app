@@ -1,0 +1,9 @@
+{
+  "name": "ACMS Crew Mobile",
+  "short_name": "ACMS Crew",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#071d3a",
+  "icons": []
+}
